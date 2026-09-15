@@ -9,7 +9,7 @@
 
 A modern web application built with Nuxt 3 that analyzes and displays your browser's unique fingerprint. This tool demonstrates various browser fingerprinting techniques and provides detailed insights about your browser's characteristics.
 
-[Demo](https://trackme.dev) · [Report Bug](https://github.com/LeonKohli/browser-fingerprint/issues) · [Request Feature](https://github.com/LeonKohli/browser-fingerprint/issues) · [Support Project ☕](https://www.buymeacoffee.com/LeonKohli)
+[Demo](https://trackme.dev) · [Report Bug](https://github.com/aster-go/browser-fingerprint/issues) · [Request Feature](https://github.com/aster-go/browser-fingerprint/issues) · [Support Project ☕](https://www.buymeacoffee.com/aster-go)
 
 </div>
 
@@ -61,7 +61,7 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/LeonKohli/browser-fingerprint.git
+   git clone https://github.com/aster-go/browser-fingerprint.git
    cd browser-fingerprint
    ```
 
@@ -161,10 +161,3 @@ The fingerprint generated can potentially be used to track users across websites
 
 ---
 
-<div align="center">
-
-Made with ❤️ by [LeonKohli](https://github.com/LeonKohli)
-
-If you find this project helpful, consider [buying me a coffee ☕](https://www.buymeacoffee.com/LeonKohli)
-
-</div>
